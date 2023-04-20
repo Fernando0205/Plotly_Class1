@@ -1,0 +1,1 @@
+# Aqui voy a poner funciones que necesito en varios lugares.
